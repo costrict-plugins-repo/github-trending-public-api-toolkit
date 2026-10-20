@@ -1,0 +1,22 @@
+{
+  "name": "public-api-toolkit",
+  "version": "2.0.1",
+  "description": "43 agent skills for real-time public data. Free. No keys. Token-efficient.",
+  "keywords": [
+    "gemini-cli",
+    "claude-code",
+    "agent-skills",
+    "public-apis",
+    "toolkit"
+  ],
+  "homepage": "https://github.com/nikhilreddy3888/public-api-toolkit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhilreddy3888/public-api-toolkit.git"
+  },
+  "author": "Nikhil Reddy",
+  "license": "MIT",
+  "gemini": {
+    "type": "extension"
+  }
+}
